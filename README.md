@@ -1,3 +1,5 @@
+* Digital Owl REST API documentation *
+
 **Show User**
 ----
   Returns json data about a single user.
