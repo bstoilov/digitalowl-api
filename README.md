@@ -2,7 +2,7 @@
 ----
 <br/><br/><br/>
 
-Got to this <a href='https://digitalowl.restlet.io/'> link</a> to view a better and up to date documentation. 
+Go to this <a href='https://digitalowl.restlet.io/'> link</a> to view a better and up to date documentation. 
 
 
 **Text Classification Api**
