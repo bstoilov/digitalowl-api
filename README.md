@@ -1,3 +1,7 @@
+**This is deprecated, out of date and will soon be deleted, use the python client instead https://github.com/bstoilov/digitalowl-pysemantics**
+
+
+
 **<a href='https://digitalowl.org/'> Digital Owl</a> REST API documentation**
 ----
 <br/><br/><br/>
